@@ -121,5 +121,5 @@ kemudian membuat method `jumlahObjek()` untuk menampilkan hasil dari hitungan
     }
 ```
 ## Screenshoot running code
-[gambar1](?raw=true)
-[gambar2](?raw=true)
+![gambar1](https://github.com/daffarj/PemlanTugas2/blob/main/public/Screenshot%202025-03-12%20132830.png?raw=true)
+![gambar2](https://github.com/daffarj/PemlanTugas2/blob/main/public/Screenshot%202025-03-12%20132853.png?raw=true)
